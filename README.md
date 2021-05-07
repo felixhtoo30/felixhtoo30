@@ -5,7 +5,7 @@
 
 [e-mail]: mailto:felixhtoo30@gmail.com
 [facebook]: //facebook.com/felixhtoo30
-[linkedin]: //linkedin.com/felixhtoo30
+[linkedin]: //linkedin.com/in/felixhtoo30
 [twitter]: //twitter.com/felixhtoo30
 
 <!---
