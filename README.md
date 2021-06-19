@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @felixhtoo30, a Unicorn Developer who designs and codes.
-- 👀 I’m interested in UIUX Design and Coding.
+- 👀 I’m interested in UIUX Design and Programming.
 - 🌱 I’m currently learning Frontend technologies.
 - 📫 You feel free to contact me through [e-mail], [facebook], [linkedin], [twitter]
 
