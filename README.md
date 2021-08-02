@@ -4,7 +4,7 @@
 - 📫 You feel free to contact me through [e-mail], [facebook], [linkedin], [twitter]
 
 [e-mail]: mailto:felixhtoo30@gmail.com
-[facebook]: //facebook.com/felixhtoo30
+[facebook]: //facebook.com/felixhtoo30.dev
 [linkedin]: //linkedin.com/in/felixhtoo30
 [twitter]: //twitter.com/felixhtoo30
 
