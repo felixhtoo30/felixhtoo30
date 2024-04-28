@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @felixhtoo30, a Web Developer who designs and codes.
-- 👀 I’m interested in UIUX and Web Design.
-- 🌱 I’m currently learning Frontend technologies.
+- 👋 Hi, I’m @felixhtoo30, a Full Stack Engineer with 6+ years hands on experience.
+- I read the people • books • codes
+- I like challenging my limits
 - 📫 You feel free to contact me through [e-mail], [facebook], [linkedin], [twitter]
 
 [e-mail]: mailto:felixhtoo30@gmail.com
