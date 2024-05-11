@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @felixhtoo30, a Full Stack Engineer with 6+ years hands on experience.
+- 👋 Hi, I’m @felixhtoo30, a Full Stack Web Engineer with 6+ years hands on experience.
+- Languages & Frameworks: PHP, Laravel, Wordpress, Shopify • React, NodeJS
+- Tech Stacks: LAMP • PERN
 - I read the people • books • codes
-- I like challenging my limits
+- I'm the one with growth mindset and can-do attitude
 - 📫 You feel free to contact me through [e-mail], [facebook], [linkedin], [twitter]
 
 [e-mail]: mailto:felixhtoo30@gmail.com
