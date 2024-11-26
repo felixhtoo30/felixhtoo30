@@ -1,8 +1,8 @@
-- This is Felix.
-- A Full Stack Web Engineer with around 7 years hands on experience.
-- Languages & Frameworks: PHP, Laravel, Wordpress, Shopify • React, NodeJS
+## Felix Htoo
+- Full stack web engineer with around 7 years hands on experience.
+- Languages & Frameworks: PHP, Laravel • React, NodeJS • CMS (Wordpress, Shopify)
 - Tech Stacks: LAMP • PERN
-- Read the people • books • codes
+- Read the people • books • codes everyday
 - The one with growth mindset and can-do attitude
 - Feel free to contact me through [e-mail], [facebook], [linkedin], [twitter]
 
