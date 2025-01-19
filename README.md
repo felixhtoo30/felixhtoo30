@@ -24,7 +24,7 @@
 **Wordpress | Magento | Shopify**
 
 
-<i>Note: The **Actively Using** category includes languages and frameworks I currently use in my projects. The “Previously Used” category lists technologies I am familiar with but am not actively using right now</i>
+<i>Note: The **Actively Using** category includes languages and frameworks I currently use in my projects. The **Previously Used** category lists technologies I am familiar with but am not actively using right now</i>
 
 ---
 ### Tech Stacks: 
