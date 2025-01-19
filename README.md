@@ -24,12 +24,19 @@
 **Wordpress | Magento | Shopify**
 
 
-<i>Note: The **Actively Using** category includes languages and frameworks I currently use in my projects. The **Previously Used** category lists technologies I am familiar with but am not actively using right now. **CMS** is Content Management System I am familiar with</i>
+<i>Note: The **Actively Using** category includes languages and frameworks I currently use in my projects. The **Previously Used** category lists technologies I am familiar with but am not actively using right now. **CMS** is Content Management System I am familiar with.</i>
 
 ---
 ### Tech Stacks: 
 - **PERN** (Postgres • ExpressJS • React • NodeJS)
 - **LAMP** (Linux • Apache • Mysql • PHP)
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felixhtoo30&layout=donut&langs_count=5)
+
+<!-- ![Felix Htoo's Stats](https://github-readme-stats.vercel.app/api?username=felixhtoo30&show_icons=true&hide=contribs,issues) -->
+
 
 
 [e-mail]: mailto:felixhtoo30@gmail.com
