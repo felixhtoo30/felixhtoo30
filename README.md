@@ -32,8 +32,10 @@
 - **LAMP** (Linux • Apache • Mysql • PHP)
 
 ---
+![Felix H.'s WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=felixhtoo30&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felixhtoo30&layout=donut&langs_count=5)
+![Felix H.'s Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felixhtoo30&layout=donut&langs_count=5) 
+
 
 <!-- ![Felix Htoo's Stats](https://github-readme-stats.vercel.app/api?username=felixhtoo30&show_icons=true&hide=contribs,issues) -->
 
